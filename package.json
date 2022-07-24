@@ -15,6 +15,6 @@
 	},
 	"scripts": {
 		"build": "npx tsc",
-		"start": "node index.js",
+		"start": "node tokenify.js",
 	}
 }
